@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aviv 
 - 🌱 I’m currently learning computer science degree
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ...
+- 📫 How to reach me Avivmalul98@gmail.com
 - ⚡ Fun fact: I Love Coffee!
 -
 - aviv2525/aviv2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
