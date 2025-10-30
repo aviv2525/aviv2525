@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aviv 
-- 🌱 I’m currently learning computer science degree
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me Avivmalul13@gmail.com
-- ⚡ Fun fact: I Love Coffee!
--
-  
+- 👋 Hi, I’m Aviv  
+- 🎓 Recently graduated with a B.Sc. in Computer Science  
+- 💡 Passionate about creating clean, efficient, and meaningful software  
+- 🧩 Strong interest in backend development, mobile apps, and modern web technologies  
+- 🚀 Eager to grow, collaborate, and take on new challenges in the tech world  
+- 📫 Let’s connect: Avivmalul13@gmail.com  
+- ☕ Coffee fuels my code ☕
